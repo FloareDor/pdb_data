@@ -70,10 +70,13 @@ class SimpleStructureProcessor:
                         })
                     except KeyError:
                         continue
+                else:
+                    print(f"missing protein residue : {res_name}")
+
         
         return chain_data, sequences
 
-    def process_pdb_files(self, pdb_files, output_dir='processed_data'):
+    def process_pdb_files(self, pdb_files, output_dir='processed_data3'):
         """Process multiple PDB files and create ML dataset."""
         os.makedirs(output_dir, exist_ok=True)
         all_data = []
@@ -128,5 +131,5 @@ class SimpleStructureProcessor:
 
 if __name__ == "__main__":
     processor = SimpleStructureProcessor()
-    pdb_files = ['5www.pdb']  # We can add our PDB file paths here
+    pdb_files = ['5www.pdb', '8rxd.pdb']  # We can add our PDB file paths here
     dataset = processor.process_pdb_files(pdb_files)

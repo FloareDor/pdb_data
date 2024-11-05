@@ -47,7 +47,8 @@ class SimpleStructureProcessor:
                             'y': coords[1],
                             'z': coords[2]
                         })
-                    except KeyError:
+                    except Exception as e:
+                        print(e,ca_atom)
                         continue
                 
                 # Process RNA residues
@@ -131,5 +132,5 @@ class SimpleStructureProcessor:
 
 if __name__ == "__main__":
     processor = SimpleStructureProcessor()
-    pdb_files = ['5www.pdb', '8rxd.pdb']  # We can add our PDB file paths here
+    pdb_files = ['4ola.pdb']  # We can add our PDB file paths here
     dataset = processor.process_pdb_files(pdb_files)

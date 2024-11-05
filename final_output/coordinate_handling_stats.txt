@@ -1,7 +1,0 @@
-Coordinate Handling Statistics:
-Total observed coordinates: 1863377
-Initial missing coordinates: 2569
-Successfully interpolated: 281
-Extended from previous: 80
-Extended from next: 14
-Completely missing: 2194

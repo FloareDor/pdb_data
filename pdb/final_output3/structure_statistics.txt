@@ -1,0 +1,20 @@
+Total files processed: 100
+Files with exactly 2 chains: 51
+Files with more than 2 chains: 49
+
+Detailed chain count distribution:
+Files with 2 chains: 51
+Files with 3 chains: 7
+Files with 4 chains: 19
+Files with 5 chains: 3
+Files with 6 chains: 9
+Files with 8 chains: 3
+Files with 9 chains: 1
+Files with 10 chains: 3
+Files with 12 chains: 1
+Files with 13 chains: 1
+Files with 16 chains: 1
+Files with 23 chains: 1
+
+Successfully processed files: 100
+Failed files: 0

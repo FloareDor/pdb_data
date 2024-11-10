@@ -1,2 +1,5 @@
 pdb/data/
 final_output/coordinates.csv
+*coordinates.csv
+*.parquet
+

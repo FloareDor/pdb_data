@@ -1,0 +1,377 @@
+Missing Coordinate Statistics:
+Total files with missing coordinates: 465
+Total chains with missing coordinates: 979
+
+Breakdown by number of missing coordinates:
+
+1 missing atom coordinates:
+  Files affected: 237
+  Chains affected: 794
+
+2 missing atom coordinates:
+  Files affected: 96
+  Chains affected: 61
+
+3 missing atom coordinates:
+  Files affected: 17
+  Chains affected: 11
+
+4 missing atom coordinates:
+  Files affected: 18
+  Chains affected: 3
+
+5 missing atom coordinates:
+  Files affected: 7
+  Chains affected: 2
+
+6 missing atom coordinates:
+  Files affected: 6
+  Chains affected: 2
+
+7 missing atom coordinates:
+  Files affected: 3
+  Chains affected: 1
+
+8 missing atom coordinates:
+  Files affected: 28
+  Chains affected: 0
+
+9 missing atom coordinates:
+  Files affected: 3
+  Chains affected: 3
+
+10 missing atom coordinates:
+  Files affected: 4
+  Chains affected: 0
+
+11 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 6
+
+12 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 1
+
+14 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+15 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+16 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+17 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 3
+
+19 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+20 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 2
+
+21 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+24 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 2
+
+26 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 2
+
+27 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 4
+
+28 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 4
+
+29 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 3
+
+30 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+31 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 2
+
+33 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+37 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+40 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 2
+
+41 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 2
+
+42 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+44 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+45 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+48 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 4
+
+49 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+52 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+54 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+57 missing atom coordinates:
+  Files affected: 2
+  Chains affected: 3
+
+59 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 4
+
+62 missing atom coordinates:
+  Files affected: 2
+  Chains affected: 2
+
+63 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+66 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 1
+
+68 missing atom coordinates:
+  Files affected: 3
+  Chains affected: 1
+
+71 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+74 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 2
+
+76 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 1
+
+82 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 1
+
+85 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+86 missing atom coordinates:
+  Files affected: 2
+  Chains affected: 2
+
+91 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 1
+
+96 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+99 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+103 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+110 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 1
+
+117 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 2
+
+121 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 2
+
+123 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+130 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 1
+
+133 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+138 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 4
+
+154 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+158 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+161 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 1
+
+163 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 2
+
+180 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+187 missing atom coordinates:
+  Files affected: 2
+  Chains affected: 0
+
+198 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+203 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+249 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+308 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 2
+
+326 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+328 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+414 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+416 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+540 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 1
+
+552 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+616 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+1027 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 1
+
+1443 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 1
+
+1519 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 4
+
+1540 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+1545 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+1552 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+2688 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+2841 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+2889 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+2903 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+2942 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+2958 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+3020 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+3394 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+3673 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+4531 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0

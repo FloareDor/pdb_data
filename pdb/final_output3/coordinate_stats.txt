@@ -1,0 +1,3 @@
+Coordinate Statistics:
+Total observed coordinates: 37885
+Total missing coordinates: 94

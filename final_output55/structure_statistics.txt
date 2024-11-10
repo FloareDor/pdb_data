@@ -1,0 +1,302 @@
+Total files processed: 4386
+Files with exactly 2 chains: 733
+Files with more than 2 chains: 3419
+
+Detailed chain count distribution:
+Files with 2 chains: 733
+Files with 3 chains: 457
+Files with 4 chains: 687
+Files with 5 chains: 226
+Files with 6 chains: 290
+Files with 7 chains: 78
+Files with 8 chains: 197
+Files with 9 chains: 181
+Files with 10 chains: 84
+Files with 11 chains: 58
+Files with 12 chains: 112
+Files with 13 chains: 79
+Files with 14 chains: 48
+Files with 15 chains: 88
+Files with 16 chains: 93
+Files with 17 chains: 28
+Files with 18 chains: 38
+Files with 19 chains: 20
+Files with 20 chains: 32
+Files with 21 chains: 65
+Files with 22 chains: 39
+Files with 23 chains: 80
+Files with 24 chains: 19
+Files with 25 chains: 14
+Files with 26 chains: 22
+Files with 27 chains: 20
+Files with 28 chains: 21
+Files with 29 chains: 13
+Files with 30 chains: 30
+Files with 31 chains: 54
+Files with 32 chains: 39
+Files with 33 chains: 23
+Files with 34 chains: 27
+Files with 35 chains: 29
+Files with 36 chains: 25
+Files with 37 chains: 19
+Files with 38 chains: 9
+Files with 39 chains: 9
+Files with 40 chains: 6
+Files with 41 chains: 7
+Files with 42 chains: 6
+Files with 43 chains: 5
+Files with 44 chains: 4
+Files with 45 chains: 6
+Files with 46 chains: 2
+Files with 47 chains: 1
+Files with 48 chains: 5
+Files with 49 chains: 2
+Files with 50 chains: 1
+Files with 51 chains: 3
+Files with 52 chains: 2
+Files with 54 chains: 3
+Files with 55 chains: 4
+Files with 56 chains: 4
+Files with 57 chains: 2
+Files with 58 chains: 1
+Files with 60 chains: 1
+Files with 61 chains: 1
+
+Successfully processed files: 4152
+Failed files: 234
+
+Failed files list:
+- /blue/xiaofan/Resource/binding/PDB/RPI/temp.pdb
+- /blue/xiaofan/Resource/binding/PDB/RPI/1EUQ.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8PBL.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/3CD6.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8Q7N.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6MPF.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4WJ3.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8C01.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4BY7.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8WR4.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7L48.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6K0A.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8BVM.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8D2N.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7OO3.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6CYT.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/2CJK.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7Q3L.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7OKY.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4DR7.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7V59.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5BZU.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7AFN.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4X64.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4A3E.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6YUD.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6G51.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/1ZZN.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7OOB.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/1N8R.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6C6K.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5ED1.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8W1O.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7TAX.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8G6Y.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/1AUD.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7AEA.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4LF5.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6ZU9.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8P7D.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6RBE.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/1K9M.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7O5H.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6EML.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6J6N.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/3CMA.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5JB3.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/3FOZ.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7ELN.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/2I91.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5EEX.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6KQN.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/1IBL.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7DUJ.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7S4U.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/484D.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8KDA.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8UHA.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6AZ1.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8S8F.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6GBZ.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8KAG.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7ZHH.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4BKK.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4D61.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5LMU.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6EXV.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7SYS.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4KZX.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8E5T.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7KEE.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8JH3.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5T7B.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7OOP.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7A0S.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/1H38.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5M8I.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6AH0.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8HF1.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4Z4E.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/1MJI.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8CSQ.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4LFA.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/1M8X.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7DOK.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7SYM.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6ZMT.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8Q7Q.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8DH0.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7ZNK.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6QDW.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8EEX.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/1JZZ.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/3EPL.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7WBW.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4KZY.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7QH6.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5GXI.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/3CF5.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5LMR.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6MUT.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5LMT.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/1HVU.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6MFR.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4JI2.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6UPX.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8POH.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6MKN.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8RW1.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/2KG0.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7D3J.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8WI8.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6PCH.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7AF3.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6ZVH.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/1T4L.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7KED.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/2UXB.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7AQD.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8OZD.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7DUK.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8D8K.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4NIA.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5A0T.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/2ZJR.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4YY3.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/2NUF.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/2AAR.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4OE1.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4DR4.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4DR1.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/1SM1.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/1T2R.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/1M1K.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8YFQ.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6ZXH.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8URW.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5VVR.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6FHI.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6F3H.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7V99.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/3CC2.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5ME1.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7V9A.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4CE4.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6EXN.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8G7V.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4BY9.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7WV4.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7UWS.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/1MMS.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7NJ7.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6EEN.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5ZWO.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/2MQQ.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6W77.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8IT1.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/3HM9.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6CB1.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7ELD.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8E8M.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6MWN.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5W4U.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4K4Z.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/2O5J.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/2MFG.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7NAU.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7RE3.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7ODF.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6IG0.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8Z9C.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6ZUO.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8KBH.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5MQ0.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4Z4C.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6STY.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6BK8.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/2PPB.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7KRO.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8S8I.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6ALH.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8WAU.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7OBQ.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8H8E.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4B3S.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8UB9.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/3JCM.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8WHY.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8W8O.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5B2S.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5B2R.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5EF1.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6WB0.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7YG7.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6WDR.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5I2D.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4LF4.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7CXN.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7YPA.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8CSU.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7AS9.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7ZKI.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5XYU.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7AOZ.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5O5J.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8CAH.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4LFC.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6XEZ.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8UI0.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7AS8.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/2MTV.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6YSI.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7ZAH.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/2MQO.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7ZOD.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/2OTL.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/8P7C.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6SPB.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/3J3W.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5LQW.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/3I56.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/2XZO.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7ED5.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7BG6.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5A2T.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7WBX.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/6OGY.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/4V19.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/5GAE.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/3PIO.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/3BBX.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7SYN.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7LD5.pdb.gz
+- /blue/xiaofan/Resource/binding/PDB/RPI/7N3P.pdb.gz

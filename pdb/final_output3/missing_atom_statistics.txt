@@ -1,0 +1,25 @@
+Missing Coordinate Statistics:
+Total files with missing coordinates: 5
+Total chains with missing coordinates: 6
+
+Breakdown by number of missing coordinates:
+
+1 missing atom coordinates:
+  Files affected: 3
+  Chains affected: 3
+
+2 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+3 missing atom coordinates:
+  Files affected: 0
+  Chains affected: 1
+
+5 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 0
+
+86 missing atom coordinates:
+  Files affected: 1
+  Chains affected: 1
